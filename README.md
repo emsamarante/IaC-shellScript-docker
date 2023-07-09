@@ -10,7 +10,7 @@ node2: is a MySQL container running in the same networking that listen in 3307 (
 Some packages were installed in node1, such as, curl, lynx, nano, vim and sudo.
 
 
-![Architecture](https://github.com/emsamarante/IaC-shellScript-docker/tree/main/IacWithShellScript.png)
+![Architecture](file:///home/eduardo/Documentos/FormacaoProfissional/Cursos/DSA/EngDados/DesignImplementacaoDW/TerraForm-RedShift/Projeto2-Parte1/shell-config/IaC-shellScript-docker/IacWithShellScript.png)
 
 
 Before running my script shell I have these containers in my machine:
