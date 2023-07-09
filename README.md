@@ -26,7 +26,7 @@ After running, two more containers will add - node1 and node_mysql
 
 Checking the network:
 
-![after](https://github.com/emsamarante/IaC-shellScript-docker/tree/main/after.png)
+![after](https://github.com/emsamarante/IaC-shellScript-docker/tree/main/network.png)
 
 
 This infrastructure will be used in DW modeling using the data obtained in https://github.com/emsamarante/ETLProcessWithShellScript.
