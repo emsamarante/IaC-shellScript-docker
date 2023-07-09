@@ -11,3 +11,23 @@ Some packages were installed in node1, such as, curl, lynx, nano, vim and sudo.
 
 
 ![Architecture](https://github.com/emsamarante/IaC-shellScript-docker/tree/main/IacWithShellScript.png)
+
+
+Before running my script shell I have these containers in my machine:
+
+![Before](https://github.com/emsamarante/IaC-shellScript-docker/tree/main/before.png)
+
+
+![Running](https://github.com/emsamarante/IaC-shellScript-docker/tree/main/running.png)
+
+After running, two more containers will add - node1 and node_mysql
+
+![after](https://github.com/emsamarante/IaC-shellScript-docker/tree/main/after.png)
+
+Checking the network:
+
+![after](https://github.com/emsamarante/IaC-shellScript-docker/tree/main/after.png)
+
+
+This infrastructure will be used in DW modeling using the data obtained in https://github.com/emsamarante/ETLProcessWithShellScript.
+
